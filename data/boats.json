@@ -1,0 +1,462 @@
+[
+  {
+    "slug": "azimut-60",
+    "title": "AZIMUT 60",
+    "brand": "Azimut",
+    "model": "60",
+    "year": 2013,
+    "category": "flybridge",
+    "categoryLabel": "Flybridge",
+    "price": 1150000,
+    "lengthM": 1829,
+    "cabins": 3,
+    "engines": "2 x 800 hp MAN",
+    "enginePower": "1600 hp",
+    "featured": true,
+    "shortDescription": "2x800 hp MAN, clima, generatore, yachtcontroller, 3 cabine doppie, 2 bagni, cabina marinaio",
+    "description": "AZIMUT 60 del 2013.\n2x800 hp MAN, clima, generatore, yachtcontroller, 3 cabine doppie, 2 bagni, cabina marinaio.\nImbarcazione in ottime condizioni, pronta all'uso. Per la scheda completa, le foto aggiornate e per fissare una visita, chiama lo 334 821 9240.",
+    "images": [
+      {
+        "url": "/images/boats/azimut-60.png",
+        "alt": "Azimut 60 del 2013 fotografato dal lato di sinistra"
+      }
+    ]
+  },
+  {
+    "slug": "raffaelli-compass-rose-50",
+    "title": "Raffaelli compass rose 50",
+    "brand": "Raffaelli",
+    "model": "Compass Rose 50",
+    "year": null,
+    "category": "cabinato",
+    "categoryLabel": "Cabinato",
+    "price": 230000,
+    "lengthM": 1524,
+    "cabins": 3,
+    "engines": "2 x 480 hp Caterpillar",
+    "enginePower": "960 hp",
+    "featured": true,
+    "shortDescription": "2x480 cat, 3 cabine, 2 bagni, clima, generatore, passerella, pronto alla boa",
+    "description": "Raffaelli Compass Rose 50.\n2x480 hp Caterpillar, 3 cabine, 2 bagni, clima, generatore, passerella. Pronto alla boa.\nPer la scheda completa, le foto aggiornate e per fissare una visita, chiama lo 334 821 9240.",
+    "images": [
+      {
+        "url": "/images/boats/raffaelli-compass-rose-50.png",
+        "alt": "Raffaelli Compass Rose 50 in ormeggio"
+      }
+    ]
+  },
+  {
+    "slug": "raffaelli-maestrale-52",
+    "title": "Raffaelli maestrale 52",
+    "brand": "Raffaelli",
+    "model": "Maestrale 52",
+    "year": null,
+    "category": "cabinato",
+    "categoryLabel": "Cabinato",
+    "price": 220000,
+    "lengthM": 1585,
+    "cabins": 3,
+    "engines": "2 x 500 hp Caterpillar",
+    "enginePower": "1000 hp",
+    "featured": true,
+    "shortDescription": "2x500hp cat, 3 cabine, 2 bagni, clima, generatore, passerella",
+    "description": "Raffaelli Maestrale 52.\n2x500 hp Caterpillar, 3 cabine, 2 bagni, clima, generatore, passerella.\nPer la scheda completa, le foto aggiornate e per fissare una visita, chiama lo 334 821 9240.",
+    "images": [
+      {
+        "url": "/images/boats/raffaelli-maestrale-52.png",
+        "alt": "Raffaelli Maestrale 52 visto di prua"
+      }
+    ]
+  },
+  {
+    "slug": "apreamare-28-semicabin",
+    "title": "APREAMARE 28 SEMICABIN",
+    "brand": "Apreamare",
+    "model": "28 Semicabin",
+    "year": null,
+    "category": "semicabinato",
+    "categoryLabel": "Semicabinato",
+    "price": 65000,
+    "lengthM": 853,
+    "cabins": null,
+    "engines": "2 x 160 hp Volvo",
+    "enginePower": "320 hp",
+    "featured": false,
+    "shortDescription": "Semicabinato 8,5 m, 2 x 160 hp Volvo. Trattativa seguita personalmente.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-01.jpg",
+        "alt": "APREAMARE 28 SEMICABIN — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "cranchi-zaffiro-34",
+    "title": "CRANCHI ZAFFIRO 34",
+    "brand": "Cranchi",
+    "model": "Zaffiro 34",
+    "year": null,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 75000,
+    "lengthM": 1036,
+    "cabins": null,
+    "engines": "2 x 231 hp diesel Volvo",
+    "enginePower": "462 hp",
+    "featured": false,
+    "shortDescription": "Open 10,4 m, 2 x 231 hp diesel Volvo.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-02.jpg",
+        "alt": "CRANCHI ZAFFIRO 34 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "cranchi-endurance-41",
+    "title": "CRANCHI ENDURANCE 41",
+    "brand": "Cranchi",
+    "model": "Endurance 41",
+    "year": null,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 95000,
+    "lengthM": 1250,
+    "cabins": null,
+    "engines": "2 x 310 hp diesel",
+    "enginePower": "620 hp",
+    "featured": false,
+    "shortDescription": "Open 12,5 m, 2 x 310 hp diesel.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-03.jpg",
+        "alt": "CRANCHI ENDURANCE 41 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "cranchi-m44-ht",
+    "title": "CRANCHI M44 HT",
+    "brand": "Cranchi",
+    "model": "M44 HT",
+    "year": 2017,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 390000,
+    "lengthM": 1341,
+    "cabins": null,
+    "engines": "2 x 350 hp Volvo",
+    "enginePower": "700 hp",
+    "featured": false,
+    "shortDescription": "Hard top 13,4 m, 2 x 350 hp Volvo, del 2017.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-04.jpg",
+        "alt": "CRANCHI M44 HT — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "mano-marine-28-50",
+    "title": "MANO MARINE 28.50",
+    "brand": "Mano Marine",
+    "model": "28.50",
+    "year": null,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 50000,
+    "lengthM": 869,
+    "cabins": null,
+    "engines": "2 x 225 hp Mercruiser",
+    "enginePower": "450 hp",
+    "featured": false,
+    "shortDescription": "Motoscafo 8,7 m, 2 x 225 hp Mercruiser.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-05.jpg",
+        "alt": "MANO MARINE 28.50 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "primatist-29",
+    "title": "PRIMATIST 29",
+    "brand": "Primatist",
+    "model": "29",
+    "year": null,
+    "category": "motoscafo",
+    "categoryLabel": "Motoscafo",
+    "price": 35000,
+    "lengthM": 884,
+    "cabins": null,
+    "engines": "2 x 225 hp Mercruiser",
+    "enginePower": "450 hp",
+    "featured": false,
+    "shortDescription": "Motoscafo 8,8 m, 2 x 225 hp Mercruiser.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-06.jpg",
+        "alt": "PRIMATIST 29 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "zeus-yacht-25",
+    "title": "ZEUS YACHT 25",
+    "brand": "Zeus Yacht",
+    "model": "25",
+    "year": 2010,
+    "category": "motoscafo",
+    "categoryLabel": "Motoscafo",
+    "price": 35000,
+    "lengthM": 762,
+    "cabins": null,
+    "engines": "300 hp Mercruiser",
+    "enginePower": "300 hp",
+    "featured": false,
+    "shortDescription": "Motoscafo 7,6 m, 300 hp Mercruiser, del 2010.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-07.jpg",
+        "alt": "ZEUS YACHT 25 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "uniesse-48-ht",
+    "title": "UNIESSE 48 HT",
+    "brand": "Uniesse",
+    "model": "48 HT",
+    "year": 2005,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 350000,
+    "lengthM": 1463,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Hard top 14,6 m, del 2005.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-08.jpg",
+        "alt": "UNIESSE 48 HT — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "cranchi-med-43-ht",
+    "title": "CRANCHI MED 43 HT",
+    "brand": "Cranchi",
+    "model": "MED 43 HT",
+    "year": 2009,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 230000,
+    "lengthM": 1311,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Hard top 13,1 m, del 2009.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-09.jpg",
+        "alt": "CRANCHI MED 43 HT — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "palanca-35",
+    "title": "PALANCA 35",
+    "brand": "Palanca",
+    "model": "35",
+    "year": null,
+    "category": "motoscafo",
+    "categoryLabel": "Motoscafo",
+    "price": 55000,
+    "lengthM": 1067,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Motoscafo 10,7 m.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-10.jpg",
+        "alt": "PALANCA 35 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "technema-58",
+    "title": "TECHNEMA 58",
+    "brand": "Technema",
+    "model": "58",
+    "year": 1990,
+    "category": "flybridge",
+    "categoryLabel": "Flybridge",
+    "price": 210000,
+    "lengthM": 1768,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Flybridge 17,7 m, del 1990.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-11.jpg",
+        "alt": "TECHNEMA 58 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "cranchi-cls-28",
+    "title": "CRANCHI CLS 28",
+    "brand": "Cranchi",
+    "model": "CLS 28",
+    "year": 2001,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 40000,
+    "lengthM": 853,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Open 8,5 m, del 2001.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-12.jpg",
+        "alt": "CRANCHI CLS 28 — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "sunseeker-44-camargue",
+    "title": "SUNSEEKER 44 CAMARGUE",
+    "brand": "Sunseeker",
+    "model": "44 Camargue",
+    "year": null,
+    "category": "flybridge",
+    "categoryLabel": "Flybridge",
+    "price": 150000,
+    "lengthM": 1341,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Flybridge 13,4 m.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-01.jpg",
+        "alt": "SUNSEEKER 44 CAMARGUE — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "ranieri-240-next",
+    "title": "RANIERI 240 NEXT",
+    "brand": "Ranieri",
+    "model": "240 Next",
+    "year": null,
+    "category": "motoscafo",
+    "categoryLabel": "Motoscafo",
+    "price": 69000,
+    "lengthM": 740,
+    "cabins": null,
+    "engines": "2 x 140 hp",
+    "enginePower": "280 hp",
+    "featured": false,
+    "shortDescription": "Motoscafo 7,4 m, 2 x 140 hp.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-02.jpg",
+        "alt": "RANIERI 240 NEXT — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "ranieri-220-next",
+    "title": "RANIERI 220 NEXT",
+    "brand": "Ranieri",
+    "model": "220 Next",
+    "year": null,
+    "category": "motoscafo",
+    "categoryLabel": "Motoscafo",
+    "price": 65000,
+    "lengthM": 671,
+    "cabins": null,
+    "engines": "200 hp",
+    "enginePower": "200 hp",
+    "featured": false,
+    "shortDescription": "Motoscafo 6,7 m, 200 hp.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-03.jpg",
+        "alt": "RANIERI 220 NEXT — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "sea-ray-335-sundancer",
+    "title": "SEA RAY 335 SUNDANCER",
+    "brand": "Sea Ray",
+    "model": "335 Sundancer",
+    "year": null,
+    "category": "open",
+    "categoryLabel": "Open",
+    "price": 65000,
+    "lengthM": 1020,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Cruiser 10,2 m.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-04.jpg",
+        "alt": "SEA RAY 335 SUNDANCER — foto annuncio"
+      }
+    ]
+  },
+  {
+    "slug": "sunseeker-530",
+    "title": "SUNSEEKER 530",
+    "brand": "Sunseeker",
+    "model": "530",
+    "year": 2005,
+    "category": "flybridge",
+    "categoryLabel": "Flybridge",
+    "price": 260000,
+    "lengthM": 1615,
+    "cabins": null,
+    "engines": "",
+    "enginePower": "",
+    "featured": false,
+    "shortDescription": "Flybridge 16,2 m, del 2005.",
+    "description": "",
+    "images": [
+      {
+        "url": "/images/editorial/gallery-05.jpg",
+        "alt": "SUNSEEKER 530 — foto annuncio"
+      }
+    ]
+  }
+]
